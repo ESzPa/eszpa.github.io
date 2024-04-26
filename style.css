@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+}
+
+a:link{
+    color: rgb(0, 0, 0);
+    text-decoration: none; 
+}
+
+a:visited{
+    color: rgb(0, 0, 0);
+    text-decoration: none; 
+}
+
+a:hover { 
+    color: rgb(0, 0, 0);
+    text-decoration: none; 
+}
+
+a:active { 
+    color: rgb(0, 0, 0);
+    text-decoration: none; 
+}
